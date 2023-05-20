@@ -11,7 +11,7 @@ const Movie = () => {
   }
   return (
     <>
-      {/* if movie is present then only show data else remain as it is  */}
+      {/* if movie is present then only s how data else remain as it is  */}
       <section className="movie-page">
         <div className="grid grid-4-col">
           {movie
